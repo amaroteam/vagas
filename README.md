@@ -7,6 +7,7 @@ We are pioneers building the future we want to live in. Here, innovation and cre
 
 You can learn more about us on our Linkedin page and medium:
 https://www.linkedin.com/company/amaro/
+
 https://medium.com/amaro-tech
 
 ### *Our Recruiting Process:*
